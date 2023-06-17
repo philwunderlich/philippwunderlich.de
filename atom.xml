@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Philipp Wunderlich</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-06-02T08:13:29+02:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Philipp Wunderlich</name>
+   <email>web@philippwunderlich.de</email>
+ </author>
+
+ 
+
+</feed>
