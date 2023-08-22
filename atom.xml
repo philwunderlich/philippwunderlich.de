@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Philipp Wunderlich</title>
- <link href="/philippwunderlich.de/atom.xml" rel="self"/>
- <link href="https://philippwunderlich.de/philippwunderlich.de/"/>
- <updated>2023-06-18T11:53:23+02:00</updated>
+ <link href="/atom.xml" rel="self"/>
+ <link href="https://philippwunderlich.de//"/>
+ <updated>2023-08-22T14:48:08+01:00</updated>
  <id>https://philippwunderlich.de</id>
  <author>
    <name>Philipp Wunderlich</name>
