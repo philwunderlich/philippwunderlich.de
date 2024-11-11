@@ -3,9 +3,9 @@
 
  <title>Philipp Wunderlich</title>
  <link href="/atom.xml" rel="self"/>
- <link href="https://philippwunderlich.de//"/>
- <updated>2023-08-24T09:52:32+02:00</updated>
- <id>https://philippwunderlich.de</id>
+ <link href="http://localhost:4000//"/>
+ <updated>2024-11-11T16:39:53+01:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Philipp Wunderlich</name>
    <email>web@philippwunderlich.de</email>
